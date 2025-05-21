@@ -1,6 +1,13 @@
-from klak import vypis
+from klak import vypis, prvniPismenko
+
 
 def main():
+    
+
+
+
+
+
     text = input("zadejte slovo")
     num = int(input("Kolikrát ho chcete vypsat?"))
     vypis(text,num)
