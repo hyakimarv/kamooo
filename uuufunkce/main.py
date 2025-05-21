@@ -2,7 +2,8 @@ from klak import vypis, prvniPismenko
 
 
 def main():
-    
+    slovo=input("Zadejte slovo")
+    prvniPismenko(slovo)
 
 
 
